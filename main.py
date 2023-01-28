@@ -25,14 +25,7 @@ class ArrayProcess:
 
 
 
-
-
-       
-
 array1= ["1","2",4,5,6,7,8,9,10,12,14,15,17,'3']
 
-
-
-
 print((ArrayProcess.SeperateEventOddNumbers(array1)))
-print((ArrayProcess.RemoveDuplicates(array1)))
+print((ArrayProcess.RemoveDuplicates(array1,array1)))
